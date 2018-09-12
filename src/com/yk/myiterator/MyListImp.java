@@ -2,7 +2,7 @@ package com.yk.myiterator;
 
 public class MyListImp <T> implements MyList<T> {
 
-    private Object [] obj = null;//生命对象数组
+    private Object [] obj = null;//声明对象数组
     private int index;//下标
     private int size;
 
