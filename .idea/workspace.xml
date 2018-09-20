@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d14fd66-9f70-452f-bbc0-ef69ed59dada" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/yk/FileToolsClass/FileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yk/FileToolsClass/source/test" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasis/com/yk/mymap/TestMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasis/com/yk/mymap/TestMap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/yk/mymap/TestMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yk/mymap/TestMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/yk/FileToolsClass/source/test" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yk/FileToolsClass/source/test" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -74,7 +70,7 @@
     <session id="-785921224">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
+          <entry key="project.closed" value="10" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.11" value="1" />
@@ -131,33 +127,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/yk/FileToolsClass/FileTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="31" column="35" lean-forward="true" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#631#804#0" expanded="true" />
-                <element signature="e#803#804#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.7.0_21/src.zip!/javax/swing/filechooser/FileSystemView.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="565">
-              <caret line="327" column="19" selection-start-line="327" selection-start-column="11" selection-end-line="327" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/yk/FileToolsClass/source/test">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="46">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -193,8 +166,8 @@
         <option value="$PROJECT_DIR$/src/com/yk/mymap/newfile.xm" />
         <option value="$PROJECT_DIR$/src/com/yk/mymap/newfile.xml" />
         <option value="$PROJECT_DIR$/src/com/yk/mymap/TestMap.java" />
-        <option value="$PROJECT_DIR$/src/com/yk/FileToolsClass/source/test" />
         <option value="$PROJECT_DIR$/src/com/yk/FileToolsClass/FileTest.java" />
+        <option value="$PROJECT_DIR$/src/com/yk/FileToolsClass/source/test" />
       </list>
     </option>
   </component>
@@ -211,10 +184,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1815" />
-    <option name="y" value="235" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -327,7 +300,7 @@
     <property name="SearchEverywhereHistoryKey" value="getKey&#9;PSI&#9;JAVA://com.sun.corba.se.impl.oa.poa.ActiveObjectMap#getKey" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537262992804" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537268037835" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -459,18 +432,17 @@
       <workItem from="1536733547417" duration="5572000" />
       <workItem from="1537176740547" duration="8461000" />
       <workItem from="1537230997436" duration="73000" />
-      <workItem from="1537250326252" duration="10315000" />
+      <workItem from="1537250326252" duration="13066000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46096000" />
+    <option name="totallyTimeSpent" value="48847000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14925373" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14925373" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -479,7 +451,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23127036" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -620,13 +592,6 @@
     <entry file="file://$PROJECT_DIR$/src/com/yk/FileToolsClass/source/1">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/yk/FileToolsClass/source/test">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/yk/FileToolsClass/source/2.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -642,13 +607,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/yk/FileToolsClass/FileTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="31" column="35" lean-forward="true" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
+        <state relative-caret-position="460">
+          <caret line="20" column="34" lean-forward="true" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#631#804#0" expanded="true" />
             <element signature="e#803#804#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yk/FileToolsClass/source/test">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
