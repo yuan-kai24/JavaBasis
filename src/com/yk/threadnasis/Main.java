@@ -6,7 +6,6 @@ public class Main {
         Thread actress = new Thread(new Actress(), "123");
         actor.setName("YK");
         actress.start();
-
         actor.start();
     }
 }
