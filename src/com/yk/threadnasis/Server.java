@@ -3,10 +3,7 @@ package com.yk.threadnasis;
 服务端，基于tcp协议
  */
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStream;
-import java.io.InputStreamReader;
+import java.io.*;
 import java.net.ServerSocket;
 import java.net.Socket;
 
@@ -14,24 +11,22 @@ public class Server {
     public static void main(String[] args) {
         //创建一个serversocket，指定绑定的端口，监听
         try {
-            ServerSocket serverSocket = new ServerSocket(1946);
+            ServerSocket serverSocket = new ServerSocket(1945);
             //开始监听
             System.out.println("---服务器即将启动，等待客户端链接---");
-            Socket accept =  serverSocket.accept();//阻塞状态
-            //获取输入流，读取信息
-            InputStream inputStream =  accept.getInputStream();
-            InputStreamReader isr = new InputStreamReader(inputStream);
-            BufferedReader bufferedReader = new BufferedReader(isr);
 
-            String info = null;
-            while((info = bufferedReader.readLine()) != null)
+            Socket socket = null;
+            //记录客户端数量
+            int count = 0;
+            while(true)
             {
-                System.out.println(info);
+                socket = serverSocket.accept();
+                ServerThread serverThread = new ServerThread(socket);
+                serverThread.start();
+                count++;
+                System.out.println("有"+ count + "人连接");
             }
 
-            bufferedReader.close();
-            isr.close();
-            inputStream.close();
         } catch (IOException e) {
             e.printStackTrace();
         }
