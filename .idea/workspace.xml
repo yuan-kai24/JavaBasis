@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d14fd66-9f70-452f-bbc0-ef69ed59dada" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/temp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yk/threadnasis/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yk/threadnasis/Server.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasis/com/yk/MyClassHome/ImageSuiy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasis/com/yk/MyClassHome/ImageSuiy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/yk/MyClassHome/ImageSuiy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yk/MyClassHome/ImageSuiy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasis/com/yk/threadnasis/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasis/com/yk/threadnasis/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/yk/threadnasis/Actor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/yk/threadnasis/Actress.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/yk/threadnasis/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yk/threadnasis/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -74,12 +76,13 @@
     <session id="-785921224">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="13" />
+          <entry key="project.closed" value="14" />
           <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.24" value="1" />
@@ -88,20 +91,21 @@
           <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.28" value="1" />
           <entry key="project.open.time.3" value="2" />
-          <entry key="project.open.time.30" value="1" />
-          <entry key="project.opened" value="19" />
+          <entry key="project.open.time.30" value="2" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Collection" value="81" />
-          <entry key="java" value="4526" />
+          <entry key="java" value="5277" />
           <entry key="test" value="48" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4526" />
+          <entry key="JAVA" value="5277" />
           <entry key="PLAIN_TEXT" value="129" />
         </counts>
       </usages-collector>
@@ -115,7 +119,7 @@
           <entry key="Info" value="1" />
           <entry key="dat" value="4" />
           <entry key="fxml" value="1" />
-          <entry key="java" value="31" />
+          <entry key="java" value="35" />
           <entry key="jpg" value="1" />
           <entry key="png" value="15" />
           <entry key="temp" value="1" />
@@ -127,7 +131,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Image" value="16" />
-          <entry key="JAVA" value="31" />
+          <entry key="JAVA" value="35" />
           <entry key="PLAIN_TEXT" value="10" />
           <entry key="XML" value="5" />
         </counts>
@@ -138,10 +142,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/yk/threadnasis/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/com/yk/threadnasis/Server.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+            <state relative-caret-position="299">
+              <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/yk/threadnasis/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -185,6 +201,8 @@
         <option value="$PROJECT_DIR$/src/com/yk/threadnasis/Actress.java" />
         <option value="$PROJECT_DIR$/src/com/yk/MyClassHome/ImageSuiy.java" />
         <option value="$PROJECT_DIR$/src/com/yk/threadnasis/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/yk/threadnasis/Client.java" />
+        <option value="$PROJECT_DIR$/src/com/yk/threadnasis/Server.java" />
       </list>
     </option>
   </component>
@@ -201,8 +219,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1756" />
-    <option name="y" value="136" />
+    <option name="x" value="-185" />
+    <option name="y" value="232" />
     <option name="width" value="1920" />
     <option name="height" value="1047" />
   </component>
@@ -259,7 +277,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -293,6 +310,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -300,7 +318,7 @@
     <property name="SearchEverywhereHistoryKey" value="getKey&#9;PSI&#9;JAVA://com.sun.corba.se.impl.oa.poa.ActiveObjectMap#getKey" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537517368889" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537611348869" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -329,7 +347,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ImageSuiy">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Actor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.yk.threadnasis.Actor" />
       <module name="JavaBasis" />
@@ -404,8 +422,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ImageSuiy" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ImageSuiy" />
         <item itemvalue="Application.Actor" />
         <item itemvalue="Application.TestRandom" />
         <item itemvalue="Application.FileTest" />
@@ -445,19 +463,22 @@
       <workItem from="1537446104535" duration="599000" />
       <workItem from="1537448184795" duration="13939000" />
       <workItem from="1537489280629" duration="6848000" />
-      <workItem from="1537509142804" duration="2607000" />
+      <workItem from="1537509142804" duration="2665000" />
+      <workItem from="1537541116333" duration="494000" />
+      <workItem from="1537547771151" duration="715000" />
+      <workItem from="1537605140529" duration="4803000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80575000" />
+    <option name="totallyTimeSpent" value="86645000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20682302" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49971607" visible="true" weight="0.23560767" />
+      <window_info id="Structure" order="1" sideWeight="0.50028396" side_tool="true" weight="0.22972973" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -465,7 +486,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.28338763" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28338763" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3995657" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -658,10 +679,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="227">
           <caret line="528" column="18" selection-start-line="528" selection-start-column="18" selection-end-line="528" selection-end-column="18" />
-          <folding>
-            <element signature="e#22097#22098#0" expanded="true" />
-            <element signature="e#22136#22137#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -681,6 +698,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yk/threadnasis/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="33" column="24" lean-forward="true" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/yk/threadnasis/Actress.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
@@ -690,15 +717,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/yk/threadnasis/Actor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/yk/threadnasis/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/yk/threadnasis/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        <state relative-caret-position="46">
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yk/threadnasis/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
