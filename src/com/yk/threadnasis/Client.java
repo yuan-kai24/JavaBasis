@@ -10,7 +10,7 @@ public class Client {
     public static void main(String[] args) {
         //创建客户端
         try {
-            Socket localhost = new Socket("localhost", 1945);
+            Socket localhost = new Socket("192.168.117.1", 1945);
             //获取输出流
             OutputStream outputStream = localhost.getOutputStream();
             PrintWriter printWriter = new PrintWriter(outputStream);
