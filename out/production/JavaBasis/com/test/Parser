@@ -1,0 +1,13 @@
+package com.test;
+
+class Parser{
+    static {
+        System.out.printf("static Parser");
+    }
+    Parser(){
+        System.out.printf("Parser Constructor");
+    }
+    public static void main(String[] args) {
+        System.out.println("Parser main");
+    }
+}
